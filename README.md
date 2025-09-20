@@ -2,7 +2,7 @@
 
 **Crafting immersive, science-rooted simulations with code, curiosity, and a growth-like mindset.**
 
-Hi, I’m Noemi — a biomedical scientist turned simulation technologist, exploring the frontiers of XR, aerospace, and health-tech. My mission is to build high-impact simulation tools that empower training, deepen learning, and spark discovery.
+Hi, I’m a biomedical scientist turned simulation technologist, exploring the frontiers of XR, aerospace, and health-tech. My mission is to build high-impact simulation tools that empower training, deepen learning, and spark discovery.
 
 ---
 
