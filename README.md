@@ -53,7 +53,7 @@ Everything here is **forged by sim** — built with intention, experimentation, 
 ## 📫 Reach Out
 
 For collaboration or conversation:  
-📩 **young.simulationtech@gmail.com**
+📩 **contact@forgedbysim.com**
 
 ---
 
