@@ -1,13 +1,8 @@
-## Hi there 👋
-
-<!--
-**forged-by-sim/forged-by-sim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👩🏽‍🔬 forged-by-sim
 
 **Crafting immersive, science-rooted simulations with code, curiosity, and a growth-like mindset.**
 
-Hi, I’m Noemi — a biomedical scientist turned simulation technologist/technician, exploring the frontiers of XR, aerospace, and health-tech. My mission is to build high-impact simulation tools that empower training, deepen learning, and spark discovery.
+Hi, I’m Noemi — a biomedical scientist turned simulation technologist, exploring the frontiers of XR, aerospace, and health-tech. My mission is to build high-impact simulation tools that empower training, deepen learning, and spark discovery.
 
 ---
 
@@ -39,19 +34,17 @@ Hi, I’m Noemi — a biomedical scientist turned simulation technologist/techni
 ---
 
 ## 📚 Philosophical Books Recommended
-> *"We are simulators by nature — testing outcomes, replaying steps, dreaming realities before they manifest."*
-> Philosophy and Simulation: The Emergence of Synthetic Reason by Manuel DeLanda 
-> Reality + : Virtual Worlds and the Problems of Philosophy by David J. Chalmers
-> Calculated Surprises: A Philosophy of Computer Simulation 
+> *"We are simulators by nature — testing outcomes, replaying steps, dreaming realities before they manifest."*  
+> Philosophy and Simulation: The Emergence of Synthetic Reason by Manuel DeLanda  
+> Reality + : Virtual Worlds and the Problems of Philosophy by David J. Chalmers  
+> Calculated Surprises: A Philosophy of Computer Simulation  
 
-Personal favorites (not in any particular order):
-> Frankenstein by Mary Shelley
-> Brave New World by Aldous Huxley
-> 1984 by George Orwell 
-> Do Androids Dream of Electric Sheep? by Philip K. Dick
+Personal favorites (not in any particular order):  
+> Frankenstein by Mary Shelley  
+> Brave New World by Aldous Huxley  
+> 1984 by George Orwell  
+> Do Androids Dream of Electric Sheep? by Philip K. Dick  
 > BLAME! by Tsutomu Nihei
-
-
 
 Everything here is **forged by sim** — built with intention, experimentation, and a lot of determination to learn.
 
@@ -59,7 +52,7 @@ Everything here is **forged by sim** — built with intention, experimentation, 
 
 ## 📫 Reach Out
 
-For collaboration or conversation:
+For collaboration or conversation:  
 📩 **young.simulationtech@gmail.com**
 
 ---
