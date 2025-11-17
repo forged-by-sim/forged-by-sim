@@ -2,9 +2,9 @@
 
 **Crafting immersive, science-rooted simulations with code, curiosity, and a growth-like mindset.**
 
-Welcome to my portfolio! I come from 7 years of medical simulation operations, where I worked hands-on with high-fidelity manikins, ran classroom simulations, instructed students, and troubleshot hardware/software in fast-paced environments.
+Welcome to my portfolio! I come from 7 years of medical simulation operations, where I worked hands-on with high-fidelity manikins (Laerdal, Gaumard, Big Red), ran classroom simulations, instructed students, and troubleshoot hardware/software in fast-paced environments.
 
-I hold a Master’s in Biomedical Sciences and recently began transitioning into technical simulation development. Over the past year, I’ve been aggressively upskilling in:
+With a scientific background in biological and biomedical sciences, I am now transitioning into technical simulation development. Over the past year, I’ve been aggressively upskilling in:
 
 XR development (Unity, Blender, A-Frame/WebXR)
 
@@ -52,15 +52,15 @@ Python for Everybody by University of Michigan
 
 Introduction to Structured Query Language (SQL) by University of Michigan 
 
-Introduction to Programming with MATLAB by Vanderbuilt University 
+Introduction to Programming with MATLAB by Vanderbilt University 
 
 Getting Started with Git & GitHub by IBM
 
 (Upcoming) Machine Learning by Stanford University 
 
-(Upcoming) R Programming by John Hopkins University 
+(Upcoming) R Programming by Johns Hopkins University 
 
-(Upcoming) Advanced R Programming by John Hopkins University 
+(Upcoming) Advanced R Programming by Johns Hopkins University 
 
 Everything here is **forged by sim** — built with intention, experimentation, and a lot of determination to learn.
 
