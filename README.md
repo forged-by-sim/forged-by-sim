@@ -21,6 +21,7 @@ Web-based VR/AR pipeline design
 I’m self-taught and have been building a technical foundation through Coursera, hands-on projects, and simulation-focused tutorials.
 
 🔧 Technical Projects
+
 🦕 XR Dinosaur Project (Unity + A-Frame WebXR)
 
 Rigging, animation, VR/AR scene design, WebXR deployment, and extensive Unity troubleshooting documentation. This project represents my full XR pipeline experience — from Blender rigging to Unity prefab management to A-Frame WebXR interactions.
