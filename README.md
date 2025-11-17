@@ -2,49 +2,65 @@
 
 **Crafting immersive, science-rooted simulations with code, curiosity, and a growth-like mindset.**
 
-Hi, I’m a biomedical scientist turned simulation technologist, exploring the frontiers of XR, aerospace, and health-tech. My mission is to build high-impact simulation tools that empower training, deepen learning, and spark discovery.
+Welcome to my portfolio! I come from 7 years of medical simulation operations, where I worked hands-on with high-fidelity manikins, ran classroom simulations, instructed students, and troubleshot hardware/software in fast-paced environments.
 
----
+I hold a Master’s in Biomedical Sciences and recently began transitioning into technical simulation development. Over the past year, I’ve been aggressively upskilling in:
 
-## 🔧 Currently Exploring
-- 🧠 Extended Reality (XR) for training & simulation
-- 🧪 MATLAB + Python for scientific computing
-- 💻 Git & GitHub workflows for portfolio-building
-- ✨ Simulation storytelling & spatial learning
-- 🔍 Human-centered design for high-stakes scenarios
+XR development (Unity, Blender, A-Frame/WebXR)
 
----
+Programming (C/C++, Python, MATLAB)
 
-## 🧰 Tech & Tools
-`Python` `Unity` `MATLAB` `C++` `GitHub`  
-`Jupyter Notebooks` `Arduino` `Laerdal SimMan` `Gaumard HAL`  
-`Adobe Illustrator` `Coursera XR for Everybody` `Linux CLI`
+SQL & database design
 
----
+Version control (Git & GitHub)
 
-## 🧪 Selected Projects
+3D modeling + rigging
 
-| Project | Description |
-|--------|-------------|
-| [📦 XR Emergency Room](#) | VR trauma simulation with Unity & gaze tracking (WIP) |
-| [🌐 Python Mail Timeline](#) | Data parsing + visualization of comms (Coursera Project) |
-| [🔬 MATLAB Motion Plotter](#) | Graphs biomechanical simulations in 2D & 3D space |
-| [💡 GitHub Workflow Demo](#) | Portfolio repo with staged commits, branches & clean history |
+Web-based VR/AR pipeline design
 
----
+I’m self-taught and have been building a technical foundation through Coursera, hands-on projects, and simulation-focused tutorials.
 
-## 📚 Philosophical Books Recommended
-> *"We are simulators by nature — testing outcomes, replaying steps, dreaming realities before they manifest."*  
-> Philosophy and Simulation: The Emergence of Synthetic Reason by Manuel DeLanda  
-> Reality + : Virtual Worlds and the Problems of Philosophy by David J. Chalmers  
-> Calculated Surprises: A Philosophy of Computer Simulation  
+🔧 Technical Projects
 
-Personal favorites (not in any particular order):  
-> Frankenstein by Mary Shelley  
-> Brave New World by Aldous Huxley  
-> 1984 by George Orwell  
-> Do Androids Dream of Electric Sheep? by Philip K. Dick  
-> BLAME! by Tsutomu Nihei
+Here are my most relevant technical projects on this platform:
+
+🦕 XR Dinosaur Project (Unity + A-Frame WebXR)
+
+Rigging, animation, VR/AR scene design, WebXR deployment, and extensive Unity troubleshooting documentation. This project represents my full XR pipeline experience — from Blender rigging to Unity prefab management to A-Frame WebXR interactions.
+
+💻 C and C++ Coursework
+
+Low-level programming including pointers, structs, memory management, file I/O, and linked lists. This work strengthens my foundation for simulation software, embedded systems, and performance-aware coding.
+
+📊 MATLAB Coursework
+
+Numerical methods, signal processing, data visualization, and algorithmic logic relevant to robotics, modeling, and simulation behavior analysis.
+
+🐍 Python & SQL Projects
+
+Data parsing, timeline visualization, text processing, SQL normalization, relational schema design, and JSON exports. Demonstrates skills in backend logic, data structures, and workflow automation.
+
+More projects coming as I continue building toward simulation development roles.
+
+🎓 Coursera Coursework (Technical Only)
+
+Extended Reality for Everybody (with Honors) by University of Michigan
+
+Coding for Everyone: C and C++ by University of California, Santa Cruz
+
+Python for Everybody by University of Michigan 
+
+Introduction to Structured Query Language (SQL) by University of Michigan 
+
+Introduction to Programming with MATLAB by Vanderbuilt University 
+
+Getting Started with Git & GitHub by IBM
+
+(Upcoming) Machine Learning by Stanford University 
+
+(Upcoming) R Programming by John Hopkins University 
+
+(Upcoming) Advanced R Programming by John Hopkins University 
 
 Everything here is **forged by sim** — built with intention, experimentation, and a lot of determination to learn.
 
@@ -57,4 +73,4 @@ For collaboration or conversation:
 
 ---
 
-🦊 *Thanks for stopping by — more to come as this lab evolves!*
+*Thanks for stopping by — more to come as this lab evolves!*
