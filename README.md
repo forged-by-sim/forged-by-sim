@@ -1,8 +1,8 @@
 # 👩🏽‍🔬 forged-by-sim
 
-**Crafting immersive, science-rooted simulations with code, curiosity, and a growth-like mindset.**
+🧪 Crafting immersive, science-rooted simulations with code, curiosity, and a growth-like mindset.
 
-Welcome to my portfolio! I come from 7 years of medical simulation operations, where I worked hands-on with high-fidelity manikins (Laerdal, Gaumard, Big Red), ran classroom simulations, instructed students, and troubleshoot hardware/software in fast-paced environments.
+Welcome to my portfolio! I come from 7 years of medical simulation operations, where I worked hands-on with high-fidelity manikins (Laerdal, Gaumard, Big Red), ran classroom simulations, instructed students, and troubleshot hardware/software in fast-paced environments.
 
 With a scientific background in biological and biomedical sciences, I am now transitioning into technical simulation development. Over the past year, I’ve been aggressively upskilling in:
 
@@ -21,9 +21,6 @@ Web-based VR/AR pipeline design
 I’m self-taught and have been building a technical foundation through Coursera, hands-on projects, and simulation-focused tutorials.
 
 🔧 Technical Projects
-
-Here are my most relevant technical projects on this platform:
-
 🦕 XR Dinosaur Project (Unity + A-Frame WebXR)
 
 Rigging, animation, VR/AR scene design, WebXR deployment, and extensive Unity troubleshooting documentation. This project represents my full XR pipeline experience — from Blender rigging to Unity prefab management to A-Frame WebXR interactions.
@@ -44,27 +41,26 @@ More projects coming as I continue building toward simulation development roles.
 
 🎓 Coursera Coursework (Technical Only)
 
-Extended Reality for Everybody (with Honors) by University of Michigan
+Extended Reality for Everybody (with Honors) — University of Michigan
 
-Coding for Everyone: C and C++ by University of California, Santa Cruz
+Coding for Everyone: C and C++ — UC Santa Cruz
 
-Python for Everybody by University of Michigan 
+Python for Everybody — University of Michigan
 
-Introduction to Structured Query Language (SQL) by University of Michigan 
+Introduction to Structured Query Language (SQL) — University of Michigan
 
-Introduction to Programming with MATLAB by Vanderbilt University 
+Introduction to Programming with MATLAB — Vanderbilt University
 
-Getting Started with Git & GitHub by IBM
+Getting Started with Git & GitHub — IBM
 
-(Upcoming) Machine Learning by Stanford University 
+(Upcoming) Machine Learning — Stanford University
 
-(Upcoming) R Programming by Johns Hopkins University 
+(Upcoming) R Programming — Johns Hopkins University
 
-(Upcoming) Advanced R Programming by Johns Hopkins University 
+(Upcoming) Advanced R Programming — Johns Hopkins University
 
-Everything here is **forged by sim** — built with intention, experimentation, and a lot of determination to learn.
+Everything here is forged by sim — built with intention, experimentation, and a lot of determination to learn.
 
----
 
 ## 📫 Reach Out
 
