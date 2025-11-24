@@ -60,6 +60,10 @@ Getting Started with Git & GitHub — IBM
 
 (Upcoming) Advanced R Programming — Johns Hopkins University
 
+🎓 Coursera Coursework (Simulation & Education)
+
+Essentials in Clinical Simulations Across the Health Professions — George Washington University
+
 Everything here is forged by sim — built with intention, experimentation, and a lot of determination to learn.
 
 
