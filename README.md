@@ -54,11 +54,11 @@ Introduction to Programming with MATLAB — Vanderbilt University
 
 Getting Started with Git & GitHub — IBM
 
-(Upcoming) Machine Learning — Stanford University
-
-(Upcoming) R Programming — Johns Hopkins University
+R Programming — Johns Hopkins University
 
 (Upcoming) Advanced R Programming — Johns Hopkins University
+
+(Upcoming) Machine Learning — Stanford University
 
 🎓 Coursera Coursework (Simulation & Education)
 
