@@ -56,7 +56,9 @@ Getting Started with Git & GitHub — IBM
 
 R Programming — Johns Hopkins University
 
-(Upcoming) Advanced R Programming — Johns Hopkins University
+Advanced R Programming — Johns Hopkins University
+
+(Upcoming) Introduction to Machine Learning — Duke University 
 
 (Upcoming) Machine Learning — Stanford University
 
