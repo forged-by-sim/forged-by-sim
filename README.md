@@ -38,6 +38,10 @@ Numerical methods, signal processing, data visualization, and algorithmic logic 
 
 Data parsing, timeline visualization, text processing, SQL normalization, relational schema design, and JSON exports. Demonstrates skills in backend logic, data structures, and workflow automation.
 
+📈 R & Advanced R Programming
+
+Hands-on projects in data wrangling, functional programming, object-oriented design (S3/S4), and statistical computing using purrr and base R. Swirl-based lessons and custom scripts demonstrate proficiency in vectorized operations, closures, and class construction for analytical pipelines, reproducible research, and simulation prototyping.
+
 More projects coming as I continue building toward simulation development roles.
 
 🎓 Coursera Coursework (Technical Only)
