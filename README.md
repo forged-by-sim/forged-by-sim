@@ -8,7 +8,7 @@ With a scientific background in biological and biomedical sciences, I am now tra
 
 XR development (Unity, Blender, A-Frame/WebXR)
 
-Programming (C/C++, Python, MATLAB)
+Programming (C/C++, Python, MATLAB, R)
 
 SQL & database design
 
@@ -26,11 +26,11 @@ I’m self-taught and have been building a technical foundation through Coursera
 
 Rigging, animation, VR/AR scene design, WebXR deployment, and extensive Unity troubleshooting documentation. This project represents my full XR pipeline experience — from Blender rigging to Unity prefab management to A-Frame WebXR interactions.
 
-💻 C and C++ Coursework
+💻 C and C++ 
 
 Low-level programming including pointers, structs, memory management, file I/O, and linked lists. This work strengthens my foundation for simulation software, embedded systems, and performance-aware coding.
 
-📊 MATLAB Coursework
+📊 MATLAB Programming 
 
 Numerical methods, signal processing, data visualization, and algorithmic logic relevant to robotics, modeling, and simulation behavior analysis.
 
