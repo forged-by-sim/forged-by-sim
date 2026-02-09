@@ -42,33 +42,9 @@ Data parsing, timeline visualization, text processing, SQL normalization, relati
 
 Hands-on projects in data wrangling, functional programming, object-oriented design (S3/S4), and statistical computing using purrr and base R. Swirl-based lessons and custom scripts demonstrate proficiency in vectorized operations, closures, and class construction for analytical pipelines, reproducible research, and simulation prototyping.
 
+🧠 Foundation built through independent learning, hands-on tutorials, and applied technical coursework in XR, simulation logic, and data programming.
+
 More projects coming as I continue building toward simulation development roles.
-
-🎓 Coursera Coursework (Technical Only)
-
-Extended Reality for Everybody (with Honors) — University of Michigan
-
-Coding for Everyone: C and C++ — UC Santa Cruz
-
-Python for Everybody — University of Michigan
-
-Introduction to Structured Query Language (SQL) — University of Michigan
-
-Introduction to Programming with MATLAB — Vanderbilt University
-
-Getting Started with Git & GitHub — IBM
-
-R Programming — Johns Hopkins University
-
-Advanced R Programming — Johns Hopkins University
-
-(Upcoming) Introduction to Machine Learning — Duke University 
-
-(Upcoming) Machine Learning — Stanford University
-
-🎓 Coursera Coursework (Simulation & Education)
-
-Essentials in Clinical Simulations Across the Health Professions — George Washington University
 
 Everything here is forged by sim — built with intention, experimentation, and a lot of determination to learn.
 
